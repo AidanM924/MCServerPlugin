@@ -1,0 +1,8 @@
+name: Test
+version: ${project.version}
+main: com.willburstein.test.Test
+api-version: 1.13
+commands:
+  test:
+    usage: /test
+    description: a simple test command
